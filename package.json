@@ -1,0 +1,25 @@
+{
+  "name": "e2e-laslistan",
+  "version": "1.0.0",
+  "description": "Inlämning",
+  "main": "index.js",
+  "scripts": {
+    "test-e2e": "playwright test",
+    "test-e2e-ui": "playwright test ui"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/felix-skorvald/e2e-laslistan.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/felix-skorvald/e2e-laslistan/issues"
+  },
+  "homepage": "https://github.com/felix-skorvald/e2e-laslistan#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.52.0",
+    "@types/node": "^22.15.29"
+  }
+}
