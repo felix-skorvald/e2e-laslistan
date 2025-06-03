@@ -33,7 +33,7 @@ test.describe("Navigering", () => {
         await expect(
             page.getByTestId("favorites")
         ).toBeDisabled();
-        //eftersom listan inte innehåller nåt så syns den inte men man kan kolla om den finns och är tom tror jag
+        //eftersom listan inte innehåller nåt så syns den inte men man kan kolla om den finns och är tom
         await expect(
             page.getByTestId("book-list")
         ).toBeEmpty();
