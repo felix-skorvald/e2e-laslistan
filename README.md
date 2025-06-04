@@ -12,7 +12,6 @@ Detta projekt innehåller end-to-end-tester med hjälp av Playwright. Fokus ligg
 - Skrivit [User Stories](stories.md)
 - Implementerat en testfil per "feature".
 
-
 ## Köra testerna
 
 För att köra testerna:
