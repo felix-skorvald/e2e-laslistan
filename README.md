@@ -9,7 +9,7 @@ Detta projekt innehåller end-to-end-tester med hjälp av Playwright. Fokus ligg
 ## Det jag har gjort
 
 - Skapat ett nytt Playwright-projekt.
-- Skrivit [User Stories](stories.md)
+- Skrivit [User Stories](STORIES.md)
 - Implementerat en testfil per "feature".
 
 ## Köra testerna
