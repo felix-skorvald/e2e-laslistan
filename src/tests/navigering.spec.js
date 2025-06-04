@@ -26,6 +26,6 @@ test.describe("Navigering", () => {
         //gå till katalog och kolla katalogen
         //Visa katalog
         await expect(page.getByTestId("catalog")).toBeDisabled();
-        //bok
+        // kolla efter bok
     });
 });

@@ -1,12 +1,6 @@
 # Navigering
 
-<!-- Som en användare vill jag kunna klicka på knappen för "Katalog" så att jag kan se tillgängliga böcker i katalogen. -->
-
-<!-- Som en användare vill jag kunna klicka på knappen för "Lägg till bok" så att jag kan lägga in en ny bok i systemet.
-
-Som en användare vill jag kunna klicka på knappen för "Mina böcker" så att jag kan se vilka böcker jag själv favoritmarkerat. -->
-
-navigera....
+Som en användare vill jag navigera runt på sidan så att jag kan komma åt funktionen jag vill använda.
 
 # Katalogvyn
 
