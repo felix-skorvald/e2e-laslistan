@@ -1,10 +1,12 @@
 # Navigering
 
-Som en användare vill jag kunna klicka på knappen för "Katalog" så att jag kan se tillgängliga böcker i katalogen.
+<!-- Som en användare vill jag kunna klicka på knappen för "Katalog" så att jag kan se tillgängliga böcker i katalogen. -->
 
-Som en användare vill jag kunna klicka på knappen för "Lägg till bok" så att jag kan lägga in en ny bok i systemet.
+<!-- Som en användare vill jag kunna klicka på knappen för "Lägg till bok" så att jag kan lägga in en ny bok i systemet.
 
-Som en användare vill jag kunna klicka på knappen för "Mina böcker" så att jag kan se vilka böcker jag själv favoritmarkerat.
+Som en användare vill jag kunna klicka på knappen för "Mina böcker" så att jag kan se vilka böcker jag själv favoritmarkerat. -->
+
+navigera....
 
 # Katalogvyn
 
@@ -14,11 +16,9 @@ Som en användare vill jag kunna klicka på en bok i katalogen för att lägga t
 
 # Lägg till bok-vyn
 
-Som en användare vill jag kunna fylla i ett formulär med titel och författare så att jag kan lägga till en ny bok.
+Som en användare vill jag kunna lägga till en ny bok så att jag kan se den i katalogen.
 
 Som en användare vill jag få någon typ av feedback om jag försöker lägga till en bok utan att fylla i alla obligatoriska fält, så att jag inte råkar skicka in tomma värden.
-
-Som en användare vill jag få en bekräftelse när jag har lagt till en bok, så att jag vet att det fungerade.
 
 # Mina böcker-vyn
 
